@@ -11,8 +11,6 @@ This is a simple RESTful API built with NestJS for a mobile game. The API allows
   - [Docker Setup](#docker-setup)
 - [API Endpoints](#api-endpoints)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
