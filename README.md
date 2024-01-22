@@ -10,7 +10,6 @@ This is a simple RESTful API built with NestJS for a mobile game. The API allows
   - [Running Locally](#running-locally)
   - [Docker Setup](#docker-setup)
 - [API Endpoints](#api-endpoints)
-- [Configuration](#configuration)
 
 ## Features
 
